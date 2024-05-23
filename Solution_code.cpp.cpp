@@ -13,7 +13,11 @@ int girls_preference(int n, int m, int x)
     }
 }
 
-int main()
+int main(){
+    int t;
+    cin>>t;
+    int l;
+    for(l=0;l<t;l++)
 {
     int nb, ng, x;
     cin >> nb >> ng >> x;
@@ -68,4 +72,4 @@ int main()
     }
 
     return 0;
-}
+}}
