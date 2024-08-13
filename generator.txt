@@ -1,5 +1,0 @@
-generator 1 1 > $
-generator 1 10 > $
-generator 1 100 > $
-generator 100 1000 > $
-generator 1000 1000 > $
